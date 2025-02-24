@@ -1,0 +1,6 @@
+`ifndef ROUTER_DEFINES
+`define ROUTER_DEFINES
+
+`define DELAY_SIZE 4;
+
+`endif //ROUTER_DEFINES
